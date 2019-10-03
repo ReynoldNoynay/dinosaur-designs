@@ -1,7 +1,7 @@
 html {
-    background-color: #f2f1ed;
-    font-family: Georgia, serif;
-    line-height: 1.5;
+  background-color: #f2f1ed;
+  font-family: Georgia, serif;
+  line-height: 1.5;
 }
 
 img {
@@ -11,28 +11,27 @@ img {
 h1, h2 {
   color: #5d8432;
   text-transform: uppercase;
-  font-family: 'Mansalva', cursive;
+  font-family: 'Patua One', sans-serif;
 }
 
-
 figcaption {
-font-size: .8rem;
-font-style: italic;
-text-align: center;
+  font-size: .8rem;
+  font-style: italic;
+  text-align: center;
 }
 
 nav {
-  fontsize: 1.125rem;
+  font-size: 1.125rem;
   font-weight: bold;
 }
 
 nav ol {
-list-style-type: none;
+  list-style-type: none;
 }
 
 nav a {
   color: #793284;
-  text-decoation: none;
+  text-decoration: none;
 }
 
 nav a:hover {
